@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.Appdepizzaria" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <item name="colorSecondaryVariant">@color/red</item>
+        <item name="colorSecondary">@color/red</item>
+    </style>
+
+    <style name="Theme.Appdepizzaria" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
